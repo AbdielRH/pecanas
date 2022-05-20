@@ -1,14 +1,31 @@
 /*Cabezera*/
+ body{
+    background-color:#4f3200aa ;
+}
+
+.info{
+    display: flex;
+    background-color: ;
+    color: #ffffff;
+    gap: 7px;
+    display: flex;
+    ;
+ }
+
+
+ 
 .img_superior{
+
 display: flex;
 justify-content: space-around;
 margin: 0px 0px 15px 0px;
+background-color:#4f3200aa ;
 
 
 }
 .img_text{
     display: flex;
-    color: #C47932;
+    color: #ff7b00;
     gap: 20px;
 
 }
@@ -60,10 +77,23 @@ margin: 0px 0px 15px 0px;
 }
 .parrafo_2 p{
 
-    background-color:  yellow;
+    background-color: yellow;
     text-align: center;
     font-size: 25px;
     display: inline-block;
 
 
+}
+
+.pecana1{
+display: flex;
+justify-content:end;
+width: 900px;
+}
+
+
+.imagen-pecan{
+    display: flex;
+    gap: 50px;
+    
 }
