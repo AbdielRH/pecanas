@@ -4,11 +4,13 @@ body {
 }
 
 .info {
-    display: flex;
+
     background-color: #4f3200aa;
     color: #ffffff;
-    gap: 7px;
-    display: flex;
+    justify-content: center;
+    
+    
+  
     
 }
 
@@ -19,7 +21,7 @@ body {
     display: flex;
     justify-content: space-around;
     margin: 0px 0px 15px 0px;
-    background-color: #4f3200aa;
+    background-color: white;
 
 
 }
