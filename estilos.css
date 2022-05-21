@@ -1,4 +1,4 @@
-/*Cabezera*/
+/*Cabecera*/
 body {
     background-color: #4f3200aa;
 }
@@ -9,7 +9,7 @@ body {
     color: #ffffff;
     gap: 7px;
     display: flex;
-    ;
+    
 }
 
 
@@ -76,7 +76,7 @@ body {
 
 .parrafo_1 {
 
-    background-color: white;
+    background-color: white; 
     font-size: 25px;
 }
 
@@ -103,19 +103,27 @@ height: 300px;*/
     font-size: 30px;
     text-align:left;
     text-align:below ;
-    margin: 0px 0px 0px 0px;
+    
 
 }
 
 
+.imagen-pecan img{
+    width: 400px;
+    height: 300px;
+}
 
 .imagen-pecan {
     display: flex;
-    gap: 50px;
-    justify-content: center;
-    height: 300px;
+    gap: 20px;
+    justify-content: space-between;
+   
 
+}
 
-
+.container {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
 
 }
